@@ -1,4 +1,4 @@
-# ᵀ Capstone: Basic AWS Infrastructure with Terraform
+# Capstone: Basic AWS Infrastructure with Terraform
 
 This project uses **Terraform** to deploy a simple yet foundational AWS infrastructure that includes:
 
